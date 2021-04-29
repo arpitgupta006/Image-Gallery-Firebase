@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648316040876",
+    "project_id": "codemonsters-task",
+    "storage_bucket": "codemonsters-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648316040876:android:5a47a90959e7a34597d109",
+        "android_client_info": {
+          "package_name": "com.arpit.codemonsterstask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648316040876-9ni4m18uomf5ft335tdqkbkfm9o35s59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy86ko9WjjZa3HCUgfLI3ORvECNlh850Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648316040876-9ni4m18uomf5ft335tdqkbkfm9o35s59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
